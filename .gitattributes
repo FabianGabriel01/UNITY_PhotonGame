@@ -3,6 +3,11 @@
 *.cginc text
 *.shader text
 
+*.csproj
+Library
+Temp
+PhotonServerSettings.asset
+
 *.mat merge=unityyamlmerge eol=lf
 *.anim merge=unityyamlmerge eol=lf
 *.unity merge=unityyamlmerge eol=lf

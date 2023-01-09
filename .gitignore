@@ -64,8 +64,3 @@ fmod_editor.log
 # Custom
 Assets/Plugins/ClientOnly/
 Assets/Plugins/ClientOnly.meta
-
-# DontPushThisFolders
-_TerrainAutoUpgrade/
-Customizable Skybox/
-Flooded_Grounds/
